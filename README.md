@@ -1,3 +1,3 @@
 # chat-app
 
-Created with React.
+Created with React.js, Node.js and Socket.io.
